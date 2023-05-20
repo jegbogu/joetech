@@ -9,7 +9,7 @@ const Blog = () => {
             <meta name="description" content="We have our articles for technical writers"/>
         </Head>
         <div>
-        <h1>Contact Us</h1>
+        <h1>Blog</h1>
         </div>
     </Fragment>
      );
